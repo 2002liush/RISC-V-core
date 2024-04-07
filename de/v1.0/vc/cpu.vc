@@ -1,0 +1,16 @@
+-f ${DE_HOME}/vc/inc.vc
+-f ${DE_HOME}/vc/common.vc
+${DE_HOME}/rtl/src/RV32I_dtcm.v
+${DE_HOME}/rtl/src/RV32I_exu_alu.v
+${DE_HOME}/rtl/src/RV32I_exu.v
+${DE_HOME}/rtl/src/RV32I_hazard_unit.v
+${DE_HOME}/rtl/src/RV32I_idu_dec.v
+${DE_HOME}/rtl/src/RV32I_idu.v
+${DE_HOME}/rtl/src/RV32I_ifu.v
+${DE_HOME}/rtl/src/RV32I_itcm.v
+${DE_HOME}/rtl/src/RV32I_mem.v
+${DE_HOME}/rtl/src/RV32I_regfile.v
+${DE_HOME}/rtl/src/RV32I_top.v
+${DE_HOME}/rtl/src/RV32I_wb.v
+${DE_HOME}/rtl/cpu_top.v
+

@@ -1,0 +1,2 @@
+${DE_HOME}/rtl/common/sirv_gnrl_dffl.v
+${DE_HOME}/rtl/common/sirv_sim_ram.v
